@@ -1,0 +1,1557 @@
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1799px) and (max-width: 1824px) {
+
+  .building_c_l h5 {
+    font-size: 55.9px;
+  }
+
+  .common_qusetion_content p {
+    font-size: 25px;
+  }
+
+  .home_accordion button {
+    font-size: 20.8px;
+  }
+}
+
+@media (min-width: 1451px) and (max-width: 1798px) {
+
+  .banner_wrap {
+    height: 1000px;
+  }
+
+  .banner_row {
+    flex-wrap: wrap;
+  }
+
+  .banner_left_content {
+    flex: 0 0 60%;
+    margin-bottom: 70px;
+  }
+
+  .banner_left_content h4 {
+    font-size: 54.9px;
+    line-height: 62px;
+    padding-bottom: 20px;
+  }
+
+  .searcy_building_slide_item {
+    width: 200px;
+    height: 337px;
+    padding: 0px 10px;
+  }
+
+  .searcy_building_slide_item p {
+    font-size: 13.98px;
+  }
+
+  .searcy_building_slide_item p {
+    font-size: 13.98px;
+  }
+
+  .searcy_home_testimonial_item {
+    height: 420px;
+  }
+
+  .searcy_h_t_r p {
+    font-size: 22.9px;
+    line-height: 39.91px;
+    margin-bottom: 26px;
+  }
+
+  .searcy_h_t_r {
+    width: 800px;
+    margin-left: 62px;
+    margin-top: 40px;
+  }
+
+  .building_c_i {
+    width: 386px;
+  }
+
+  .building_c_l h5 {
+    font-size: 31.9px;
+  }
+
+  .building_c_l p {
+    font-size: 15px;
+  }
+
+  .common_question_wrap {
+    padding: 0px 60px;
+  }
+
+  .common_qusetion_content h5 {
+    font-size: 35px;
+    line-height: 47px;
+    margin-bottom: 184px;
+  }
+
+  .common_qusetion_content p {
+    font-size: 26.78px;
+    line-height: 56px;
+  }
+
+  .footer_middle_row {
+    width: 90%;
+    flex-flow: row wrap;
+  }
+
+  .footer_middle_content {
+    margin-bottom: 40px;
+  }
+
+  .banner_right_row {
+    margin: auto;
+  }
+
+  .footer_tob_left_bottom a {
+    font-size: 14px;
+    margin-left: 13px;
+  }
+
+  .footer_select {
+    height: 63px;
+    font-size: 20px;
+    padding: 0px 12px;
+  }
+
+  .home_accordion button {
+    font-size: 19.8px;
+    margin-bottom: 20px;
+  }
+}
+
+
+@media (min-width: 1024px) and (max-width: 1450px) {
+
+  .banner_wrap {
+    height: 900px;
+  }
+
+  .banner_row {
+    flex-wrap: wrap;
+  }
+
+  .banner_left_content {
+    flex: 0 0 60%;
+    margin-bottom: 70px;
+  }
+
+  .banner_left_content h4 {
+    font-size: 54.9px;
+    line-height: 62px;
+    padding-bottom: 20px;
+  }
+
+  .searcy_building_slide_item {
+    width: 200px;
+    height: 337px;
+    padding: 0px 10px;
+  }
+
+  .searcy_building_slide_item p {
+    font-size: 13.98px;
+  }
+
+  .searcy_building_slide_item p {
+    font-size: 13.98px;
+  }
+
+  .searcy_home_testimonial_item {
+    height: 420px;
+  }
+
+  .searcy_home_brand_row {
+    width: 90%;
+  }
+
+  .searcy_building_slide_item p {
+    font-size: 13.98px;
+  }
+
+  .searcy_building_slide_item p {
+    font-size: 13.98px;
+  }
+
+  .searcy_home_testimonial_item {
+    height: 450px;
+  }
+
+  .searcy_h_t_r p {
+    font-size: 22.9px;
+    line-height: 39.91px;
+    margin-bottom: 26px;
+  }
+
+  .searcy_h_t_r {
+    width: 800px;
+    margin-left: 62px;
+    margin-top: 40px;
+  }
+
+  .searcy_brand_home_rating {
+    width: 66px;
+    height: 66px;
+    font-size: 29.75px;
+  }
+
+  .building_customize_wrap {
+    width: 100%;
+    height: auto;
+    flex-flow: row wrap;
+    padding: 80px 100px;
+  }
+
+  .common_question_wrap {
+    padding: 0px 60px;
+  }
+
+  .common_qusetion_content h5 {
+    font-size: 35px;
+    line-height: 47px;
+    margin-bottom: 184px;
+  }
+
+  .common_qusetion_content p {
+    font-size: 20px;
+    line-height: 56px;
+  }
+
+  .footer_middle_row {
+    width: 90%;
+    flex-flow: row wrap;
+  }
+
+  .footer_middle_content {
+    margin-bottom: 40px;
+  }
+
+  .footer_wrap {
+    padding: 80px 50px;
+  }
+
+  .footer_tob_left_bottom a {
+    font-size: 14px;
+    margin-left: 13px;
+  }
+
+  .footer_select {
+    height: 63px;
+    font-size: 18px;
+    padding: 0px 12px;
+  }
+
+  .footer_top {
+    padding-left: 0;
+  }
+
+  .footer_top_middle {
+    padding-left: 0;
+  }
+
+  .footer_middle_wrap {
+    padding-bottom: 17px;
+  }
+
+  .banner_right_row {
+    margin: auto;
+  }
+
+  .get_started_content {
+    margin-right: 70px;
+  }
+
+  .online_s_r_content h2 {
+    font-size: 50.9px;
+  }
+
+  .home_accordion button {
+    font-size: 19.8px;
+    margin-bottom: 20px;
+  }
+}
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+  .header_top_text p {
+    font-size: 13px;
+    margin-right: 20px;
+  }
+  .main_nav .dropdown-menu{
+    box-shadow: none!important;
+  }
+  .logo {
+    margin-top: -5px;
+    width: 100px;
+  }
+
+  .header_top_ci p,
+  .header_top_ci span {
+    font-size: 13.15px;
+  }
+
+  .header_top_ci img {
+    width: 1.7rem;
+  }
+
+  .header_top {
+    height: 58px;
+  }
+
+  .banner_wrap {
+    height: 100%;
+    padding: 50px 20px;
+  }
+
+  .banner_row {
+    width: 100%;
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .banner_left_content h4 {
+    font-size: 46.9px;
+    line-height: 50px;
+    padding-bottom: 15px;
+  }
+
+  .banner_right_row {
+    flex-direction: column;
+  }
+
+  .banner_left_content {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 50px;
+  }
+
+  .banner_middle_content {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .banner_middle_overlay_right_img {
+    right: 0;
+  }
+
+  .banner_right {
+    width: 100%;
+  }
+
+  .ban_r_he_l {
+    width: 76%;
+
+  }
+
+  .banner_right_form {
+    width: 75%;
+  }
+
+  .search_building_slider {
+    height: 657px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .banner_wrap::before {
+    height: 35%;
+  }
+
+  .searcy_home_brand_row {
+    width: 95%;
+    padding: 60px 0px;
+  }
+
+  .searcy_brand_home_rating {
+    width: 50px;
+    height: 50px;
+    font-size: 22.75px;
+    margin-left: 23px;
+  }
+
+  .searcy_home_brand_item {
+    margin-bottom: 40px;
+  }
+
+  .searcy_slider_testimonial_wrap {
+    padding: 0px 30px;
+  }
+
+  .searcy_home_testimonial_item {
+    height: 300px;
+  }
+
+  .searcy_h_t_r p {
+    font-size: 15.9px;
+    line-height: 26.91px;
+    margin-bottom: 20px;
+  }
+
+  .searcy_h_t_r {
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .searcy_h_t_r h4 {
+    font-size: 22px;
+  }
+
+  .searcy_home_testimonial_overlay img {
+    height: 454px;
+  }
+
+  .building_customize_wrap {
+    width: 100%;
+    height: auto;
+    padding: 80px 30px;
+    flex-direction: column;
+  }
+
+  .building_c_r {
+    flex-direction: column;
+  }
+
+  .building_c_i {
+    width: 458px;
+    height: 480px;
+    margin-left: 0;
+    margin-top: 50px;
+  }
+
+  .online_special_wrap {
+    width: 100%;
+    height: auto;
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .online_s_l {
+    width: 90%;
+  }
+
+  .online_s_r {
+    width: 100%;
+    padding-bottom: 50px;
+  }
+
+  .get_started_content {
+    width: 70%;
+    margin-right: 30px;
+  }
+
+  .common_question_wrap {
+    width: 100%;
+    height: auto;
+    padding: 50px 30px;
+  }
+
+  .common_question_row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .common_question_img {
+    width: auto;
+    height: auto;
+  }
+
+  .footer_top {
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .footer_top_left {
+    width: 100%;
+    border-bottom: 1px solid #E6E6E6;
+    border-right: 0;
+    padding-bottom: 40px;
+    margin-bottom: 70px;
+  }
+
+  .footer_top_middle {
+    width: 100%;
+    border-right: 0;
+    border-bottom: 1px solid #E6E6E6;
+    padding-bottom: 50px;
+    margin-bottom: 70px;
+  }
+
+  .footer_social ul {
+    margin-bottom: 47px;
+  }
+
+  .footer_middle_row {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .footer_middle_wrap {
+    padding-left: 0;
+  }
+
+  .footer_middle_content {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .footer_top_middle_content {
+    justify-content: space-between;
+  }
+
+  .footer_wrap {
+    padding: 0px 50px;
+    padding-top: 75px;
+  }
+
+  .main_nav {
+    height: 80px;
+    padding-right: 25px;
+    padding-left: 25px;
+  }
+
+  .main_nav .navbar-nav {
+    margin-top: 5px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    box-shadow: 0px 10px 20px -4px rgb(0 0 0 / 20%);
+    margin: auto !important;
+  }
+
+  .footer_bottom_content p {
+    font-size: 11px;
+  }
+}
+
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+
+  .header_top_text p {
+    font-size: 12px;
+    margin-right: 0;
+    padding: 16px 0px;
+  }
+
+  .logo {
+    margin-top: 0;
+    width: 90px;
+  }
+
+  .logo2 {
+    margin-top: 0;
+    width: 90px;
+  }
+
+  .header_top_ci p,
+  .header_top_ci span {
+    font-size: 13.15px;
+  }
+
+  .header_top_ci img {
+    width: 1.7rem;
+  }
+
+  .header_top {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .banner_wrap {
+    height: 100%;
+    padding: 50px 20px;
+  }
+
+  .banner_row {
+    width: 100%;
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .banner_left_content h4 {
+    font-size: 46.9px;
+    line-height: 50px;
+    padding-bottom: 15px;
+  }
+
+  .banner_right_row {
+    flex-direction: column;
+  }
+
+  .banner_left_content {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  .banner_middle_content {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .banner_middle_overlay_right_img {
+    display: none;
+  }
+
+  .banner_right {
+    width: 100%;
+    padding-bottom: 30px;
+    height: 533px;
+  }
+
+  .banner_right_form .form-group {
+    margin-bottom: 27px;
+  }
+
+  a.reg_btn_success {
+    width: 70%;
+  }
+
+  .home_reg_form .multi_f_btn,
+  .reg_btn_success {
+    left: 15px;
+  }
+
+  a.reg_btn_success {
+    left: 50%;
+    top: 55%;
+  }
+
+  .ban_r_he_l {
+    width: 71%;
+    font-size: 19px;
+  }
+
+  .ban_r_he_l P {
+    font-size: 19px;
+  }
+
+  .banner_right_heading h6 {
+    font-size: 18px;
+  }
+
+  .banner_right_form {
+    width: 92%;
+    margin-left: 15px;
+  }
+
+  .banner_right_dr_d button {
+    padding-bottom: 3px;
+    font-size: 15.63px;
+  }
+
+  .search_building_slider {
+    height: 657px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .banner_wrap::before {
+    height: 35%;
+  }
+
+  .searcy_home_brand_row {
+    width: 95%;
+    padding: 60px 30px;
+    height: auto;
+  }
+
+  .searcy_brand_home_rating {
+    width: 50px;
+    height: 50px;
+    font-size: 22.75px;
+    margin-left: 23px;
+  }
+
+  .searcy_home_brand_item {
+    margin-bottom: 40px;
+  }
+
+  .searcy_slider_testimonial_wrap {
+    padding: 0px 30px;
+  }
+
+  .searcy_home_testimonial_item {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .searcy_testi_slider .owl-nav {
+    right: 0;
+    bottom: -68px;
+  }
+
+  .searcy_h_t_r p {
+    font-size: 15.9px;
+    line-height: 26.91px;
+    margin-bottom: 20px;
+  }
+
+  .searcy_h_t_r {
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .searcy_h_t_r h4 {
+    font-size: 22px;
+  }
+
+  .searcy_home_testimonial_overlay img {
+    height: 454px;
+  }
+
+  .building_customize_wrap {
+    width: 100%;
+    height: auto;
+    padding: 80px 30px;
+    flex-direction: column;
+  }
+
+  .building_c_r {
+    flex-direction: column;
+  }
+
+  .building_c_i {
+    width: 458px;
+    height: 480px;
+    margin-left: 0;
+    margin-top: 50px;
+  }
+
+  .online_special_wrap {
+    width: 100%;
+    height: auto;
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .online_s_l {
+    width: 90%;
+  }
+
+  .online_s_r {
+    width: 100%;
+    padding-bottom: 50px;
+  }
+
+  .get_started_content {
+    width: 90%;
+    margin-right: 30px;
+  }
+
+  .common_question_wrap {
+    width: 100%;
+    height: auto;
+    padding: 50px 30px;
+  }
+
+  .common_question_row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .common_question_img {
+    width: auto;
+    height: auto;
+  }
+
+  .footer_top {
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .footer_top_left {
+    width: 100%;
+    border-bottom: 1px solid #E6E6E6;
+    border-right: 0;
+    padding-bottom: 40px;
+    margin-bottom: 45px;
+  }
+
+  .footer_top_middle {
+    width: 100%;
+    border-right: 0;
+    border-bottom: 1px solid #E6E6E6;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+  }
+
+  .footer_social ul {
+    margin-bottom: 47px;
+  }
+
+  .footer_middle_row {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .footer_middle_wrap {
+    padding-left: 0;
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
+
+  .footer_middle_content {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .footer_top_middle_content {
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+  .footer_wrap {
+    padding: 0px 20px;
+    padding-top: 50px;
+    width: 100%;
+  }
+
+  .main_nav {
+    height: 68px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .main_nav .navbar-nav {
+    margin-top: 0px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    box-shadow: 0px 10px 20px -4px rgb(0 0 0 / 20%);
+  }
+
+  .footer_bottom_content p {
+    font-size: 11px;
+  }
+
+  .header_top_contact {
+    width: 100%;
+  }
+
+  .header_top_contact ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    padding: 0;
+    width: 100%;
+
+  }
+
+  .header_top_contact ul li:first-child {
+    width: 50%;
+  }
+
+  .header_top_contact ul li:last-child {
+    width: 50%;
+  }
+
+  .banner_right_heading {
+    height: 37px;
+    margin-bottom: 38px;
+  }
+
+  .banner_right_input {
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .banner_right_input input {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+
+  .banner_right_heading h3 {
+    font-size: 16px;
+  }
+
+  .banner_right_in_list li {
+    margin-bottom: 30px;
+  }
+
+  .search_building_slider_heading h6,
+  .search_building_slider_heading p {
+    font-size: 30.67px;
+  }
+
+  .search_building_slider_heading p {
+    font-size: 15px;
+  }
+
+  .search_building_slider .owl-nav {
+    left: 0;
+    top: -59px;
+  }
+
+  .searcy_building_slide_item {
+    width: 100%;
+    height: 337px;
+    margin-top: 20px;
+  }
+
+  .building_c_l h5 {
+    font-size: 30.9px;
+  }
+
+  .building_c_i {
+    width: 100%;
+    height: 400px;
+    margin-left: 0;
+    margin-top: 25px;
+    padding: 0px 48px;
+  }
+
+  .building_c_icon {
+    width: 200px;
+    margin-bottom: -10px;
+  }
+
+  .online_s_r h3 {
+    width: 65%;
+    height: 75px;
+    font-size: 24.26px;
+    margin-bottom: 40px;
+  }
+
+  .online_s_r_content {
+    margin-left: 0;
+    padding: 20px;
+  }
+
+  .online_s_r_content h2 {
+    padding-bottom: 6px;
+    font-size: 30.9px;
+  }
+
+  .online_s_r_content h4 {
+    padding-bottom: 25px;
+    font-size: 26.39px;
+  }
+
+  .get_started_form {
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 25px;
+  }
+
+  .get_started_f_item {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .get_started_wrap {
+    width: 100%;
+    height: auto;
+    padding: 25px;
+  }
+
+  .common_qusetion_content h5 {
+    font-size: 40px;
+    line-height: 44px;
+    margin-bottom: 36px;
+  }
+
+  .common_qusetion_content p {
+    font-size: 14.78px;
+    line-height: 32px;
+  }
+
+  .home_simple_qou p {
+    font-size: 16.81px;
+    padding: 0px 15px;
+  }
+
+  .home_simple_qou {
+    height: 100px;
+  }
+
+  .footer_top_middle_content .footer_content {
+    margin-bottom: 30px;
+  }
+
+  .footer_bottom_wrap {
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+    padding: 16px 26px;
+    text-align: center;
+  }
+
+  .footer_bottom_wrap p:first-child {
+    margin-bottom: 10px;
+  }
+
+  .footer_select {
+    width: 100%;
+  }
+
+  .building_c_l {
+    padding-right: 0;
+  }
+
+  .footer_top_right_wrap {
+    width: 100%;
+  }
+
+  .main_nav .dropdown-menu {
+    box-shadow: none;
+    margin-top: 0 !important;
+  }
+
+  .home_accordion button {
+    font-size: 17.8px;
+    margin-bottom: 8px;
+  }
+
+  .home_accordion span i {
+    font-size: 12px;
+  }
+
+  .home_accordion .accordion_body {
+    padding-bottom: 12px;
+    padding-top: 8px;
+  }
+
+  .home_accordion {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .footer_logo {
+    width: 130px;
+    margin-bottom: 40px;
+  }
+
+}
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 280px) and (max-width: 480px) {
+
+
+  .header_top_text p {
+    font-size: 12px;
+    margin-right: 0;
+    padding: 16px 0px;
+  }
+
+  .logo {
+    margin-top: 0;
+    width: 90px;
+  }
+
+  .logo2 {
+    margin-top: 0;
+    width: 90px;
+  }
+
+  .header_top_ci p,
+  .header_top_ci span {
+    font-size: 13.15px;
+  }
+
+  .header_top_ci img {
+    width: 1.7rem;
+  }
+
+  .header_top {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .banner_wrap {
+    height: 100%;
+    padding: 50px 20px;
+  }
+
+  .banner_row {
+    width: 100%;
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .banner_left_content h4 {
+    font-size: 46.9px;
+    line-height: 50px;
+    padding-bottom: 15px;
+  }
+
+  .banner_right_row {
+    flex-direction: column;
+  }
+
+  .banner_left_content {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+
+  .banner_middle_content {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .banner_middle_overlay_right_img {
+    display: none;
+  }
+
+  .banner_right {
+    width: 100%;
+    padding-bottom: 30px;
+    height: 533px;
+  }
+
+  .banner_right_form .form-group {
+    margin-bottom: 27px;
+  }
+
+  a.reg_btn_success {
+    width: 70%;
+  }
+
+  .home_reg_form .multi_f_btn,
+  .reg_btn_success {
+    left: 15px;
+  }
+
+  a.reg_btn_success {
+    left: 50%;
+    top: 55%;
+  }
+
+  .ban_r_he_l {
+    width: 71%;
+    font-size: 19px;
+  }
+
+  .ban_r_he_l P {
+    font-size: 19px;
+  }
+
+  .banner_right_heading h6 {
+    font-size: 18px;
+  }
+
+  .banner_right_form {
+    width: 92%;
+    margin-left: 15px;
+  }
+
+  .banner_right_dr_d button {
+    padding-bottom: 3px;
+    font-size: 15.63px;
+  }
+
+  .search_building_slider {
+    height: 657px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .banner_wrap::before {
+    height: 35%;
+  }
+
+  .searcy_home_brand_row {
+    width: 95%;
+    padding: 60px 30px;
+    height: auto;
+  }
+
+  .searcy_brand_home_rating {
+    width: 50px;
+    height: 50px;
+    font-size: 22.75px;
+    margin-left: 23px;
+  }
+
+  .searcy_home_brand_item {
+    margin-bottom: 40px;
+  }
+
+  .searcy_slider_testimonial_wrap {
+    padding: 0px 30px;
+  }
+
+  .searcy_home_testimonial_item {
+    height: auto;
+    flex-direction: column;
+  }
+
+  .searcy_testi_slider .owl-nav {
+    right: 0;
+    bottom: -68px;
+  }
+
+  .searcy_h_t_r p {
+    font-size: 15.9px;
+    line-height: 26.91px;
+    margin-bottom: 20px;
+  }
+
+  .searcy_h_t_r {
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+  }
+
+  .searcy_h_t_r h4 {
+    font-size: 22px;
+  }
+
+  .searcy_home_testimonial_overlay img {
+    height: 454px;
+  }
+
+  .building_customize_wrap {
+    width: 100%;
+    height: auto;
+    padding: 80px 30px;
+    flex-direction: column;
+  }
+
+  .building_c_r {
+    flex-direction: column;
+  }
+
+  .building_c_i {
+    width: 458px;
+    height: 480px;
+    margin-left: 0;
+    margin-top: 50px;
+  }
+
+  .online_special_wrap {
+    width: 100%;
+    height: auto;
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .online_s_l {
+    width: 90%;
+  }
+
+  .online_s_r {
+    width: 100%;
+    padding-bottom: 50px;
+  }
+
+  .get_started_content {
+    width: 90%;
+    margin-right: 30px;
+  }
+
+  .common_question_wrap {
+    width: 100%;
+    height: auto;
+    padding: 50px 30px;
+  }
+
+  .common_question_row {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .common_question_img {
+    width: auto;
+    height: auto;
+  }
+
+  .footer_top {
+    padding-left: 0;
+    flex-direction: column;
+  }
+
+  .footer_top_left {
+    width: 100%;
+    border-bottom: 1px solid #E6E6E6;
+    border-right: 0;
+    padding-bottom: 40px;
+    margin-bottom: 45px;
+  }
+
+  .footer_top_middle {
+    width: 100%;
+    border-right: 0;
+    border-bottom: 1px solid #E6E6E6;
+    padding-bottom: 10px;
+    margin-bottom: 50px;
+  }
+
+  .footer_social ul {
+    margin-bottom: 47px;
+  }
+
+  .footer_middle_row {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .footer_middle_wrap {
+    padding-left: 0;
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
+
+  .footer_middle_content {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .footer_top_middle_content {
+    justify-content: space-between;
+    flex-direction: column;
+  }
+
+  .footer_wrap {
+    padding: 0px 20px;
+    padding-top: 50px;
+    width: 100%;
+  }
+
+  .main_nav {
+    height: 68px;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+  .main_nav .navbar-nav {
+    margin-top: 0px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    box-shadow: 0px 10px 20px -4px rgb(0 0 0 / 20%);
+  }
+
+  .footer_bottom_content p {
+    font-size: 11px;
+  }
+
+  .header_top_contact {
+    width: 100%;
+  }
+
+  .header_top_contact ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60px;
+    padding: 0;
+    width: 100%;
+
+  }
+
+  .header_top_contact ul li:first-child {
+    width: 50%;
+  }
+
+  .header_top_contact ul li:last-child {
+    width: 50%;
+  }
+
+  .banner_right_heading {
+    height: 37px;
+    margin-bottom: 38px;
+  }
+
+  .banner_right_input {
+    flex-flow: row wrap;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .banner_right_input input {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+
+  .banner_right_heading h3 {
+    font-size: 16px;
+  }
+
+  .banner_right_in_list li {
+    margin-bottom: 30px;
+  }
+
+  .search_building_slider_heading h6,
+  .search_building_slider_heading p {
+    font-size: 30.67px;
+  }
+
+  .search_building_slider_heading p {
+    font-size: 15px;
+  }
+
+  .search_building_slider .owl-nav {
+    left: 0;
+    top: -59px;
+  }
+
+  .searcy_building_slide_item {
+    width: 100%;
+    height: 337px;
+    margin-top: 20px;
+  }
+
+  .building_c_l h5 {
+    font-size: 30.9px;
+  }
+
+  .building_c_i {
+    width: 100%;
+    height: 400px;
+    margin-left: 0;
+    margin-top: 25px;
+    padding: 0px 48px;
+  }
+
+  .building_c_icon {
+    width: 200px;
+    margin-bottom: -10px;
+  }
+
+  .online_s_r h3 {
+    width: 65%;
+    height: 75px;
+    font-size: 24.26px;
+    margin-bottom: 40px;
+  }
+
+  .online_s_r_content {
+    margin-left: 0;
+    padding: 20px;
+  }
+
+  .online_s_r_content h2 {
+    padding-bottom: 6px;
+    font-size: 30.9px;
+  }
+
+  .online_s_r_content h4 {
+    padding-bottom: 25px;
+    font-size: 26.39px;
+  }
+
+  .get_started_form {
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 25px;
+  }
+
+  .get_started_f_item {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+
+  .get_started_wrap {
+    width: 100%;
+    height: auto;
+    padding: 25px;
+  }
+
+  .common_qusetion_content h5 {
+    font-size: 40px;
+    line-height: 44px;
+    margin-bottom: 36px;
+  }
+
+  .common_qusetion_content p {
+    font-size: 14.78px;
+    line-height: 32px;
+  }
+
+  .home_simple_qou p {
+    font-size: 16.81px;
+    padding: 0px 15px;
+  }
+
+  .home_simple_qou {
+    height: 100px;
+  }
+
+  .footer_top_middle_content .footer_content {
+    margin-bottom: 30px;
+  }
+
+  .footer_bottom_wrap {
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+    padding: 16px 26px;
+    text-align: center;
+  }
+
+  .footer_bottom_wrap p:first-child {
+    margin-bottom: 10px;
+  }
+
+  .footer_select {
+    width: 100%;
+  }
+
+  .building_c_l {
+    padding-right: 0;
+  }
+
+  .footer_top_right_wrap {
+    width: 100%;
+  }
+
+  .main_nav .dropdown-menu {
+    box-shadow: none;
+    margin-top: 0 !important;
+  }
+
+  .home_accordion button {
+    font-size: 17.8px;
+    margin-bottom: 8px;
+  }
+
+  .home_accordion span i {
+    font-size: 12px;
+  }
+
+  .home_accordion .accordion_body {
+    padding-bottom: 12px;
+    padding-top: 8px;
+  }
+
+  .home_accordion {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+
+  .footer_logo {
+    width: 130px;
+    margin-bottom: 40px;
+  }
+}

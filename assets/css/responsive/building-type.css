@@ -1,0 +1,250 @@
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1024px) and (max-width: 1890px) {}
+
+@media (min-width: 1451px) and (max-width: 1798px) {}
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1023px) {
+
+    .building_type_gallery_wrap {
+        padding-top: 24px;
+        padding-bottom: 0px;
+    }
+
+    .buiding_type_gallery_row {
+        flex-direction: column;
+    }
+
+    .building_t_g_li {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .building_t_g_ri {
+        width: 100%;
+    }
+
+    .bdt_gallery_item {
+        width: 28.6vw;
+        height: 96.6%;
+    }
+
+    .building_t_g_item {
+        width: 100%;
+        height: 100%;
+    }
+
+    .building_type_content_row {
+        flex-direction: column;
+    }
+
+    .building_type_content_left {
+        width: 100%;
+    }
+
+    .bdt_type_item {
+        width: 304px;
+        margin-bottom: 45px;
+    }
+
+    .building_type_content_right {
+        width: 100%;
+        padding-bottom: 75px;
+    }
+
+}
+
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+    .building_type_gallery_wrap {
+        padding-top: 24px;
+        padding-bottom: 0px;
+    }
+
+    .buiding_type_gallery_row {
+        flex-direction: column;
+    }
+
+    .bdt_gallery_grid_wrap {
+        height: auto;
+    }
+
+    .building_t_g_li {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+
+    .bdt_box_items {
+        height: auto;
+        padding: 20px 20px;
+    }
+
+    .building_t_g_ri {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .bdt_gallery_item {
+        width: 100%;
+        height: auto;
+    }
+
+    .building_t_g_item {
+        width: 100%;
+        height: 100%;
+    }
+
+    .building_type_item_wrap {
+        padding: 15px 0px;
+    }
+
+    .building_type_content_row {
+        flex-direction: column;
+    }
+
+    .building_type_content_left {
+        width: 100%;
+    }
+
+    .bdt_type_item {
+        width: 304px;
+        margin-bottom: 45px;
+    }
+
+    .building_type_content_right {
+        width: 100%;
+        padding-bottom: 75px;
+    }
+
+    .bdt_qouate h5 {
+        font-size: 25.83px;
+        padding-bottom: 7px;
+        margin-bottom: 25px;
+    }
+
+    .bdt_right_form {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+
+    .building_type_content_p {
+        width: 84%;
+        margin: auto;
+        padding-top: 30px;
+    }
+
+    .bdt_section_width {
+        width: 93%;
+    }
+
+}
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 280px) and (max-width: 480px) {
+
+    .building_type_gallery_wrap {
+        padding-top: 24px;
+        padding-bottom: 0px;
+    }
+
+    .buiding_type_gallery_row {
+        flex-direction: column;
+    }
+
+    .bdt_gallery_grid_wrap {
+        height: auto;
+    }
+
+    .building_t_g_li {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+
+    .bdt_box_items {
+        height: auto;
+        padding: 20px 20px;
+    }
+
+    .building_t_g_ri {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .bdt_gallery_item {
+        width: 100%;
+        height: auto;
+    }
+
+    .building_t_g_item {
+        width: 100%;
+        height: 100%;
+    }
+
+    .building_type_item_wrap {
+        padding: 15px 0px;
+    }
+
+    .building_type_content_row {
+        flex-direction: column;
+    }
+
+    .building_type_content_left {
+        width: 100%;
+    }
+
+    .bdt_type_item {
+        width: 304px;
+        margin-bottom: 45px;
+    }
+
+    .building_type_content_right {
+        width: 100%;
+        padding-bottom: 75px;
+    }
+
+    .bdt_qouate h5 {
+        font-size: 25.83px;
+        padding-bottom: 7px;
+        margin-bottom: 25px;
+    }
+
+    .bdt_right_form {
+        width: 100% !important;
+        margin-left: 0 !important;
+    }
+
+    .building_type_content_p {
+        width: 84%;
+        margin: auto;
+        padding-top: 30px;
+    }
+
+    .bdt_section_width {
+        width: 93%;
+    }
+
+}

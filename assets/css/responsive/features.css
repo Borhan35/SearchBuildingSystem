@@ -1,0 +1,612 @@
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1024px) and (max-width: 1890px) {
+  .features_tab_nav_left {
+    height: 245px;
+  }
+
+  .features_tab_nav_left_content {
+    width: 90%;
+  }
+
+  .features_tab_nav li a {
+    height: 245px;
+  }
+
+  .features_tab_one_list_item {
+    flex: 0 0 200px;
+  }
+
+  .features_tab_content_wrap p {
+    font-size: 15.28px;
+    line-height: 29px;
+  }
+
+  .features_tab_content_wrap h3 {
+    font-size: 44px;
+    padding-bottom: 20px;
+  }
+
+  .features_quoate_content p {
+    font-size: 21.2px;
+  }
+
+  .features_tab_nav span {
+    display: block;
+    font-size: 1rem;
+    line-height: 20px;
+    font-family: 'Cera-Pro-Regular';
+    font-weight: 500;
+  }
+
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .features_tab_nav_left {
+    width: 100%;
+    height: 230px;
+  }
+
+  .features_tab_nav_left_content {
+    width: 70%;
+    margin: auto;
+  }
+
+  .features_tabs_row {
+    flex-direction: column;
+  }
+
+  .features_tab_nav_right {
+    flex: 0 0 100%;
+  }
+
+  .features_tab_nav li a {
+    height: 198px;
+    width: 192px;
+  }
+
+  .features_tab_nav span {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .features_tab_content_wrap {
+    padding-top: 50px;
+    margin: auto;
+  }
+
+  .features_tab_content_wrap h3 {
+    font-size: 35px;
+    padding-bottom: 10px;
+  }
+
+  .features_tab_content_wrap p {
+    font-size: 15.28px;
+    line-height: 29px;
+  }
+
+  .features_tab_one_list_wrap {
+    padding-top: 65px;
+  }
+
+  .features_tab_one_list_item {
+    flex: 0 0 210px;
+    padding-bottom: 50px;
+  }
+
+  .features_tab_one_icon {
+    width: 93px;
+    height: 97px;
+    margin-bottom: 25px;
+  }
+
+  .features_quoate_content .searcy_btn {
+    width: 12.3rem;
+    height: 3.7rem;
+    font-size: 13.49px;
+  }
+
+  .features_quoate_content p {
+    font-size: 19.2px;
+  }
+
+  .features_quoate_row {
+    width: 91%;
+  }
+
+  .features_quoate_wrap {
+    height: 150px;
+  }
+
+  .optional_design_item {
+    width: 100%;
+    height: 392px;
+    flex-direction: column;
+  }
+
+  .optional_design_first {
+    height: auto !important;
+  }
+
+  .optional_design_first_row {
+    width: auto;
+    padding: 30px 0px;
+  }
+
+  .features_tab_three_box_row {
+    justify-content: space-between;
+    flex-flow: row wrap;
+  }
+
+  .fetures_tab_three_box_item {
+    width: 47%;
+    padding: 47px 0px;
+    margin-bottom: 30px;
+  }
+
+  .fetures_tab_three_box_item p {
+    padding: 0px 15px;
+  }
+
+  .feat_tab_thr_icon {
+    margin-bottom: 30px;
+  }
+
+  .fiatures_tab_map_box_wrap {
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 0px;
+  }
+
+  .fiatures_tab_map_box_row {
+    flex-direction: column;
+  }
+
+  .features_tab_mpa_box {
+    width: 100%;
+    margin-bottom: 60px;
+    padding: 30px 0px;
+  }
+  
+}
+
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+  .features_tab_nav_left {
+    width: 100%;
+    height: 230px;
+  }
+
+  .features_tab_nav_left_content {
+    width: 94%;
+    margin: auto;
+  }
+
+  .features_tabs_row {
+    flex-direction: column;
+  }
+
+  .features_tab_nav_right {
+    flex: 0 0 100%;
+  }
+
+
+  .features_tab_nav li a {
+    height: 40vw;
+    width: 23.789vw;
+  }
+
+  .features_tab_nav {
+    justify-content: center;
+  }
+
+  .features_tab_nav span {
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .features_tab_nav img {
+    width: 50%;
+    margin-bottom: 13px;
+  }
+
+  .features_tab_content_wrap {
+    padding-top: 30px;
+    width: 90.7%;
+    margin: auto;
+    margin-bottom: 70px;
+  }
+
+  .features_tab_content_wrap h3 {
+    font-size: 35px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+
+  .features_tab_content_wrap p {
+    font-size: 15.28px;
+    line-height: 22px;
+  }
+
+  .features_tab_one_list_wrap {
+    padding-top: 65px;
+  }
+
+  .features_tab_one_list_item {
+    flex: 1 0 133px;
+    padding-bottom: 40px;
+  }
+
+  .features_tab_one_icon {
+    width: 65px;
+    height: 68px;
+    margin-bottom: 19px;
+  }
+
+  .features_tab_one_icon img {
+    width: 70%;
+  }
+
+  .features_quoate_content .searcy_btn {
+    width: 12.3rem;
+    height: 3.7rem;
+    font-size: 13.49px;
+  }
+
+  .features_quoate_content p {
+    font-size: 19.2px;
+  }
+
+  .features_quoate_row {
+    width: 91%;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .features_quoate_wrap {
+    height: 150px;
+  }
+
+  .features_tab_nav_left_content h3 {
+    font-size: 45px;
+    padding-bottom: 6px;
+    margin-top: -15px;
+  }
+
+  .features_tab_nav_left_content p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .features_quoate_content p {
+    font-size: 15.2px;
+    padding-bottom: 16px;
+  }
+
+  .footer_select {
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .optional_design_item {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .optional_design_first {
+    height: auto !important;
+  }
+
+  .optional_design_first_row {
+    width: auto;
+    padding: 30px 0px;
+  }
+
+  .optional_design_item h5 {
+    font-size: 24.39px;
+    bottom: 30px;
+    left: 25px;
+  }
+  .optional_design_item:hover .optional_design_row h5{
+    top: 20px;
+    left: 25px;
+    transform: translateY(-5px);
+  }
+
+  .optional_design_item p {
+    font-size: 13.33px;
+    line-height: 18px;
+    margin-top: 10px;
+    left: 25px;
+    padding-right: 20px;
+  }
+  .optional_design_item:hover .optional_design_row p{
+    top: 46px;
+    transform: translateX(0%);
+    opacity: 1;
+  }
+
+  .features_tab_three_box_row {
+    justify-content: space-between;
+    flex-flow: row wrap;
+  }
+
+  .fetures_tab_three_box_item {
+    width: 100%;
+    padding: 47px 0px;
+    margin-bottom: 30px;
+  }
+
+  .fetures_tab_three_box_item p {
+    padding: 0px 25px;
+  }
+
+  .feat_tab_thr_icon {
+    margin-bottom: 30px;
+  }
+
+  .fiatures_tab_map_box_wrap {
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
+
+  .fiatures_tab_map_box_row {
+    flex-direction: column;
+  }
+
+  .features_tab_mpa_box {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 50px 0px;
+  }
+
+  .features_panel_box_wrap {
+    padding: 50px 0px;
+    margin-top: 0;
+    padding-bottom: 0;
+  }
+
+  .features_panel_bottom {
+    padding: 35px 20px;
+    margin-top: -37px;
+    height: auto;
+  }
+  .get_started_content{
+    text-align: center;
+  }
+
+}
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 280px) and (max-width: 480px) {
+
+  .features_tab_nav_left {
+    width: 100%;
+    height: 230px;
+  }
+
+  .features_tab_nav_left_content {
+    width: 94%;
+    margin: auto;
+  }
+
+  .features_tabs_row {
+    flex-direction: column;
+  }
+
+  .features_tab_nav_right {
+    flex: 0 0 100%;
+  }
+
+
+  .features_tab_nav li a {
+    height: 40vw;
+    width: 23.789vw;
+  }
+
+  .features_tab_nav {
+    justify-content: center;
+  }
+
+  .features_tab_nav span {
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+  .features_tab_nav img {
+    width: 50%;
+    margin-bottom: 13px;
+  }
+
+  .features_tab_content_wrap {
+    padding-top: 20px;
+    width: 90.7%;
+    margin: auto;
+    margin-bottom: 70px;
+  }
+
+  .features_tab_content_wrap h3 {
+    font-size: 35px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+
+  .features_tab_content_wrap p {
+    font-size: 15.28px;
+    line-height: 22px;
+  }
+
+  .features_tab_one_list_wrap {
+    padding-top: 65px;
+  }
+
+  .features_tab_one_list_item {
+    flex: 1 0 133px;
+    padding-bottom: 40px;
+  }
+
+  .features_tab_one_icon {
+    width: 65px;
+    height: 68px;
+    margin-bottom: 19px;
+  }
+
+  .features_tab_one_icon img {
+    width: 70%;
+  }
+
+  .features_quoate_content .searcy_btn {
+    width: 12.3rem;
+    height: 3.7rem;
+    font-size: 13.49px;
+  }
+
+  .features_quoate_content p {
+    font-size: 19.2px;
+  }
+
+  .features_quoate_row {
+    width: 91%;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .features_quoate_wrap {
+    height: 150px;
+  }
+
+  .features_tab_nav_left_content h3 {
+    font-size: 45px;
+    padding-bottom: 6px;
+    margin-top: -15px;
+  }
+
+  .features_tab_nav_left_content p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .features_quoate_content p {
+    font-size: 15.2px;
+    padding-bottom: 16px;
+  }
+
+  .footer_select {
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .optional_design_item {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .optional_design_first {
+    height: auto !important;
+  }
+
+  .optional_design_first_row {
+    width: auto;
+    padding: 30px 0px;
+  }
+
+  .optional_design_item h5 {
+    font-size: 24.39px;
+    bottom: 30px;
+    left: 25px;
+  }
+  .optional_design_item:hover .optional_design_row h5{
+    top: 20px;
+    left: 25px;
+    transform: translateY(-5px);
+  }
+
+  .optional_design_item p {
+    font-size: 13.33px;
+    line-height: 18px;
+    margin-top: 10px;
+    left: 25px;
+    padding-right: 20px;
+  }
+  .optional_design_item:hover .optional_design_row p{
+    top: 46px;
+    transform: translateX(0%);
+    opacity: 1;
+  }
+
+  .features_tab_three_box_row {
+    justify-content: space-between;
+    flex-flow: row wrap;
+  }
+
+  .fetures_tab_three_box_item {
+    width: 100%;
+    padding: 47px 0px;
+    margin-bottom: 30px;
+  }
+
+  .fetures_tab_three_box_item p {
+    padding: 0px 25px;
+  }
+
+  .feat_tab_thr_icon {
+    margin-bottom: 30px;
+  }
+
+  .fiatures_tab_map_box_wrap {
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
+
+  .fiatures_tab_map_box_row {
+    flex-direction: column;
+  }
+
+  .features_tab_mpa_box {
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 50px 0px;
+  }
+
+  .features_panel_box_wrap {
+    padding: 50px 0px;
+    margin-top: 0;
+    padding-bottom: 0;
+  }
+
+  .features_panel_bottom {
+    padding: 35px 20px;
+    margin-top: -37px;
+    height: auto;
+  }
+  .get_started_content{
+    text-align: center;
+  }
+}

@@ -1,0 +1,52 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #000000;
+    font-family: 'Acumin-RPro';
+}
+
+
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+
+a.searcy_btn {
+    width: 221px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #CE0E2D;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13.21px;
+    font-weight: 600;
+    text-transform: uppercase;
+    transition: .3s ease-in-out;
+}
+
+a.searcy_btn:hover {
+    background: #001689;
+}

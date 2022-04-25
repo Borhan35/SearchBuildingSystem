@@ -1,0 +1,78 @@
+
+@font-face {
+    font-family: 'Cera-Pro-Regular';
+    src: url('../fonts/Cera-Pro-Regular.woff') format('woff'),
+        url('../fonts/Cera-Pro-Regular.woff2') format('woff2'),
+        url('../fonts/Cera-Pro-Regular.eot'),
+        url('../fonts/Cera-Pro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cera-Pro-Regular.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cera-Pro-Bold';
+    src: url('../fonts/Cera-Pro-Bold.woff') format('woff'),
+        url('../fonts/Cera-Pro-Bold.woff2') format('woff2'),
+        url('../fonts/Cera-Pro-Bold.eot'),
+        url('../fonts/Cera-Pro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cera-Pro-Bold.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin-RPro';
+    src: url('../fonts/Acumin-RPro.woff') format('woff'),
+        url('../fonts/Acumin-RPro.woff2') format('woff2'),
+        url('../fonts/Acumin-RPro.eot'),
+        url('../fonts/Acumin-RPro.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Acumin-RPro.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin-BdPro';
+    src: url('../fonts/Acumin-BdPro.woff') format('woff'),
+        url('../fonts/Acumin-BdPro.woff2') format('woff2'),
+        url('../fonts/Acumin-BdPro.eot'),
+        url('../fonts/Acumin-BdPro.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Acumin-BdPro.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin-ItPro';
+    src: url('../fonts/Acumin-ItPro.woff') format('woff'),
+        url('../fonts/Acumin-ItPro.woff2') format('woff2'),
+        url('../fonts/Acumin-ItPro.eot'),
+        url('../fonts/Acumin-ItPro.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Acumin-ItPro.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Acumin-BdItPro';
+    src: url('../fonts/Acumin-BdItPro.woff') format('woff'),
+        url('../fonts/Acumin-BdItPro.woff2') format('woff2'),
+        url('../fonts/Acumin-BdItPro.eot'),
+        url('../fonts/Acumin-BdItPro.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Acumin-BdItPro.otf') format('truetype');
+
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

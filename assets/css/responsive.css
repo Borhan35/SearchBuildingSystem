@@ -1,0 +1,10 @@
+
+/* Index.css Responsive */
+@import "./responsive/index.css";
+
+/* Features.css Responsive */
+@import "./responsive/features.css";
+
+
+/* Building-type.css Responsive */
+@import "./responsive/building-type.css";

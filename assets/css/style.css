@@ -1,0 +1,37 @@
+/* Typograpy css */
+@import "fonts.css";
+
+
+/* Typograpy css */
+@import "style/typograpy.css";
+
+
+/* Index Css  */
+@import "style/index.css";
+
+
+/* Features Css  */
+@import "style/features.css";
+
+
+/* Building Type  */
+@import "style/building-type.css";
+
+
+/* Back Top Button  */
+#back_to_top_btn {
+    position: fixed;
+    bottom: 5%;
+    right: 1%;
+    display: none;
+    cursor: pointer;
+    -webkit-font-smoothing: antialiased;
+    z-index: 1000;
+}
+
+#back_to_top_btn i{
+    padding: 10px 15px;
+    background: #CE0E2D;
+    color: #fff;
+    font-size: 25px;
+}
